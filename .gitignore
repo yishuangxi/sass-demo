@@ -1,0 +1,4 @@
+.idea
+stylesheets
+*.css
+.sass-cache
